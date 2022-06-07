@@ -1,4 +1,6 @@
-#YOUI TEST AUTOMATION CHALLENGE - ANU JOSEPH
+# YOUI TEST AUTOMATION CHALLENGE - ANU JOSEPH
 
-Name: Anu Joesph
+Name: Anu Joesph 
+
 Email: anujoseph.popy@gmail.com
+
