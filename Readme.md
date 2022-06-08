@@ -7,7 +7,7 @@ Email: anujoseph.popy@gmail.com
 ### Tests
 
 1. Tests to verify if the users are presented with correct links in homepage
-2. Tests to verify if the user can successfully register, lopgin and logout
+2. Tests to verify if the user can successfully register, login and logout
 3. Tests to verify if items can be added to cart
 
 ### Setup
