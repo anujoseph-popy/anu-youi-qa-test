@@ -16,11 +16,15 @@ Email: anujoseph.popy@gmail.com
 ~~~
 git clone https://github.com/anujoseph-popy/anu-youi-qa-test.git
 ~~~
-- Step 2: Install npm packages
+- Step 2: CD into the directory
+~~~ 
+cd anu-youi-qa-test
+~~~
+- Step 3: Install npm packages
 ~~~ 
 npm install 
 ~~~
-- Step 3: Run cypress
+- Step 4: Run cypress
 ~~~
 npx cypress open
 ~~~
